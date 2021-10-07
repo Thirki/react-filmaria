@@ -1,0 +1,41 @@
+#meus-filmes{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul{
+  padding: 0;
+}
+
+ul li {
+  padding: 0;
+  list-style: none;
+  min-width: 600px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+span{
+  font-size: 23px;
+}
+
+button{
+  margin-left: 10px;
+}
+
+ul li div a {
+  text-decoration: none;
+  color: #0074D9;
+  transition: all .2s;
+}
+
+ul li div a:hover {
+  color: #035399;
+  transition: all .2s;
+}
