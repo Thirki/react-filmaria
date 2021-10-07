@@ -1,6 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQF3Du8UK1tAUw/feedshare-shrink_2048_1536/0/1633616157565?e=1636588800&v=beta&t=vm1KfJaGFPD9y-LPnkUUMt8wEJ4XlzUg-QYziCvbXI4)
 
-# 📁 Technologies #
+# 📁 Tecnologias #
 Este projeto foi feito usando essas tecnologias
 
 * [React](https://reactjs.org/)
