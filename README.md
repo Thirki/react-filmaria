@@ -1,3 +1,7 @@
+o resultado ficou muito bacana, a página em si é simples, a intenção era trabalhar com rotas para cada elemento, e uma rota "padrão" caso o usuário digite uma inexistente sera direcionado para uma pagina de não encontrado, ou para os mais íntimos "404".
+
+Alem de ter essa notificação com emoji do lado da tela sempre que ele faz alguma interação como salvar um filme na lista ou apagar.
+
 ![](https://media-exp1.licdn.com/dms/image/C4E22AQF3Du8UK1tAUw/feedshare-shrink_2048_1536/0/1633616157565?e=1636588800&v=beta&t=vm1KfJaGFPD9y-LPnkUUMt8wEJ4XlzUg-QYziCvbXI4)
 
 # 📁 Tecnologias #
