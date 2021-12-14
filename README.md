@@ -2,7 +2,7 @@ o resultado ficou muito bacana, a página em si é simples, a intenção era tra
 
 Alem de ter essa notificação com emoji do lado da tela sempre que ele faz alguma interação como salvar um filme na lista ou apagar.
 
-![](https://media-exp1.licdn.com/dms/image/C4E22AQF3Du8UK1tAUw/feedshare-shrink_2048_1536/0/1633616157565?e=1636588800&v=beta&t=vm1KfJaGFPD9y-LPnkUUMt8wEJ4XlzUg-QYziCvbXI4)
+![](https://user-images.githubusercontent.com/69635807/146081602-8cde935e-f23b-4dfc-a122-820824e53d12.png)
 
 # 📁 Tecnologias #
 Este projeto foi feito usando essas tecnologias
