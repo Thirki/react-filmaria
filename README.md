@@ -13,7 +13,7 @@ Este projeto foi feito usando essas tecnologias
 # 🎬 Como rodar #
 **Clone o projeto e vá em sua pasta**
 ~~~
-$ git clone git@github.com:Thirki/react-native-filmaria.git && cd react-native-filmaria
+$ git clone git@github.com:Thirki/react-filmaria.git && cd react-filmaria
 ~~~
 **Follow the steps below**
 ~~~
